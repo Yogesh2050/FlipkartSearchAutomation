@@ -6,3 +6,5 @@ Tools, Frameworks and Dependencies used:
 3.Selenium
 4.Chromedriver
 5.Opencsv
+
+Result is Stored in "searchResult.csv"
