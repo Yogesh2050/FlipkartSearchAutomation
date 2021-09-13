@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68103" started-at="2021-09-13T08:50:01Z" finished-at="2021-09-13T08:51:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68103" started-at="2021-09-13T08:50:01Z" finished-at="2021-09-13T08:51:10Z">
+      <class name="com.flipkartTest.MaxFourtyThousands">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.flipkartTest.MaxFourtyThousands@12d3a4e9]" name="initializeBrowser" is-config="true" duration-ms="3680" started-at="2021-09-13T08:49:58Z" finished-at="2021-09-13T08:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.flipkartTest.MaxFourtyThousands@12d3a4e9]" name="beforeTest" is-config="true" duration-ms="17132" started-at="2021-09-13T08:50:01Z" finished-at="2021-09-13T08:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="search()[pri:0, instance:com.flipkartTest.MaxFourtyThousands@12d3a4e9]" name="search" duration-ms="50923" started-at="2021-09-13T08:50:19Z" finished-at="2021-09-13T08:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.flipkartTest.MaxFourtyThousands@12d3a4e9]" name="tearDown" is-config="true" duration-ms="938" started-at="2021-09-13T08:51:10Z" finished-at="2021-09-13T08:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkartTest.MaxFourtyThousands -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
